@@ -4,7 +4,7 @@ Postmanben futtatott teszt dokumentációja a backend projektmunkára.
 
 ## Teszt Célja
 
-A teszt célja annak igazolása, hogy a node.js/Express szerver megfelelően fut,a végponton keresztül hibátlanul szolgáltatja a  növény adatokat JSON formátumban a frontend projekt számára.
+A teszt célja annak igazolása, hogy a node.js/Express szerver megfelelően fut,a végponton keresztül hibátlanul szolgáltatja a  növény adatokat JSON formátumban a frontend projektmunka számára.
 
 ### Végpont
 
