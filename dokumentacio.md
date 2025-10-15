@@ -8,6 +8,7 @@ A teszt célja annak igazolása, hogy a node.js/Express szerver megfelelően fut
 
 ## Használatához kell
 npm i express
+
 npm i -D nodemon
 
 ## Elindítása
