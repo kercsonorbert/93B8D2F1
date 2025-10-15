@@ -22,3 +22,5 @@ npm run dev
 | **Metódus** | `GET` |
 | **Végpont (URL)** | `http://localhost:3000/` |
 | **Elvárt Válasz** | `JSON` formátumú, `200 OK` státuszkód. |
+
+![](teszt.png)
