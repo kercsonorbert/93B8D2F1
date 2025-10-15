@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nev": "Alma (Golden)",
+    "szin": "Sárga",
+    "keszlet": 150
+  },
+  {
+    "id": 2,
+    "nev": "Banán",
+    "szin": "Sárga/Zöld",
+    "keszlet": 85
+  },
+  {
+    "id": 3,
+    "nev": "Körte (Vilmos)",
+    "szin": "Zöld",
+    "keszlet": 200
+  },
+  {
+    "id": 4,
+    "nev": "Szőlő",
+    "szin": "Piros",
+    "keszlet": 40
+  }
+]
